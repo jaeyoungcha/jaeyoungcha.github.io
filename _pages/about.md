@@ -28,7 +28,7 @@ I am interested in deep learning theory, particularly the theoretical foundation
 
 ## Education
 * **Ph.D. in Aritifical Intelligence**, KAIST  (Mar. 2024 -- Present)
-* **M.SC. in Aritifical Intelligence**, KAIST (Mar. 2022 -- Feb. 2024)
+* **M.Sc. in Aritifical Intelligence**, KAIST (Mar. 2022 -- Feb. 2024)
 * **B.E. in Cyber Security**, Korea University (Mar. 2018 -- Feb. 2022)
   * *Minor in Mathematics*
 
